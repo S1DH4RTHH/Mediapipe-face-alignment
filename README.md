@@ -1,4 +1,9 @@
 # Mediapipe-face-alignment
+
+## Demo
+
+![Demo](demo.gif)
+
 Real-time facial landmark alignment monitoring using MediaPipe Face Mesh and OpenCV.
 
 Overview:
